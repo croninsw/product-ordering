@@ -1,0 +1,22 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Box of Nails",
+            "description": "Literally just a box of nails",
+            "price": "2.99",
+            "quantity": "",
+            "image": ""
+        }
+    ],
+
+    "reviews": [
+        {
+            "id": 1,
+            "date": "12/20/2020",
+            "user": "XxNineInchScrewsxX",
+            "description": "I can't believe there wasn't something more to it. I am so upset that it's literally just a box of nails! I want my money back."
+        }
+    ]
+}
+
